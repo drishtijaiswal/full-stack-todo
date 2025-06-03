@@ -37,19 +37,6 @@ A full-featured ToDo application built with **React (Vite)** and **Spring Boot**
 
 ---
 
-## 🛠️ Environment Variables
-
-### Backend (`backend/.env`)
-```env
-DB_HOST=localhost
-DB_PORT=3306
-DB_NAME=todo_db
-DB_USER=your_mysql_user
-DB_PASS=your_mysql_pass
-
-JWT_SECRET=your_jwt_secret
-JWT_EXPIRATION=604800000
-
 ## 🧪 Example Roles
 
 ### Admin
@@ -63,3 +50,16 @@ JWT_EXPIRATION=604800000
 - **Username:** `user@example.com`  
 - **Password:** `user123`  
 - **Role:** `USER`
+
+## 🛠️ Environment Variables
+
+### Backend (`backend/.env`)
+```env
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=todo_db
+DB_USER=your_mysql_user
+DB_PASS=your_mysql_pass
+
+JWT_SECRET=your_jwt_secret
+JWT_EXPIRATION=604800000
