@@ -6,7 +6,6 @@ A full-featured ToDo application built with **React (Vite)** and **Spring Boot**
 - 👥 Role-based Access Control (Admin & User)
 - 🗂️ Task CRUD Operations
 - 🐬 MySQL Database Integration
-- 🐳 Docker Support
 
 ---
 
@@ -17,8 +16,7 @@ A full-featured ToDo application built with **React (Vite)** and **Spring Boot**
 - JWT Authentication
 - JPA & Hibernate (MySQL)
 - RESTful APIs
-- Dockerized
-
+  
 ### Frontend (Vite + React)
 - Vite, React.js, Axios
 - JWT Token Storage in localStorage
